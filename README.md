@@ -1,82 +1,25 @@
-# 01 HTML CSS Git: Code Refactor
+# HTML CSS Git: Code Refactor
 
-### User Story
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
-### Acceptance Criteria
+## Description
 
-Your website must meet accessibility standards. You can achieve this completing the following:
-* Semantic HTML elements can be found throughout the source code
-* HTML elements follow a logical structure independent of styling and positioning
-* Image and icon elements contain accessible `alt` attributes
-* Heading attributes fall in sequential order
-* Title elements contain a concise, descriptive title
+In the bootcamo this week, my Challenge was to improve a website's accessibility. I was required to take existing code and refactor it to make it more accessible.
 
-### Resources:
+## Installation
 
-* [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
-* [Image `alt` attributes](https://www.w3schools.com/tags/att_img_alt.asp)
+N/A
 
-### Mock-Up
+## Usage
 
-The following image shows the web application's appearance and functionality:
+To use this code refactor, you can review the HTML and CSS files above. To view the coding of the HTML and CSS files directly from the live web page, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see what semantic elements I added to the HTML page, and how I chronologically linked them to the CSS sheet.
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Assets/01-html-css-git-challenge-demo.png)
+You can find the link to the live page here: 
 
-> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
+## Credits
 
-### Getting Started
+N/A 
 
-Be sure to add, commit, and push your work to see the most up-to-date version of your app!
+## License
 
-### Requirements
-
-This challenge is assessed on the following criteria: 
-
-#### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the above acceptance criteria plus the following code improvements:
-
-  * Application's links all function correctly.
-
-  * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-
-  * Application's CSS file is properly commented.
-
-#### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository that contains application code.
-
-#### Application Quality: 15%
-
-* Application resembles (at least 90%) screenshots provided in the challenge instructions.
-
-#### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
+Licensed under the MIT license.
 
 * Repository contains quality README file with description, screenshot, and link to deployed application.
-
-### Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-

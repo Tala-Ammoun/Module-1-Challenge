@@ -14,7 +14,23 @@ To use this refactored code, you can review the HTML and CSS files above. Altern
 
 You can find the link to the deployed live webpage here: 
 
-![How to find the live link.](screenshot.jpg)
+### Step 1:
+
+
+
+![How to find the live link.](screenshot1.jpg)
+
+
+
+
+### Step 2:
+
+
+
+
+![How to find the live link.](screenshot2.jpg)
+
+
 
 
 ## Credits

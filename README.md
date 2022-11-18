@@ -16,12 +16,22 @@ You can find the link to the deployed live webpage here:
 
 ### Step 1:
 
+
+
 ![How to find the live link.](screenshot1.jpg)
+
+
 
 
 ### Step 2:
 
+
+
+
 ![How to find the live link.](screenshot2.jpg)
+
+
+
 
 ## Credits
 
